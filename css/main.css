@@ -1,0 +1,156 @@
+
+.grp1{
+    Width:100% ;  
+    
+}
+.im1,
+.im2,
+.im3{
+    float: left;
+    width: 28%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.grp2{
+    clear: both;
+  
+}
+
+
+.im4,
+.im5,
+.im6{
+    float: left;
+    width: 28%;
+    padding-left: 10px;
+    
+}
+
+.action{
+    clear: both;
+    text-align: center;
+    background: #352D2F;
+}
+h1,
+h2,h3{
+    font-size: 20px;
+}
+
+
+
+
+.journal{
+    display: inline-block;
+    clear: both;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.imag1,
+.imag2,
+.imag3{
+  display: inline;
+      width: :28%;
+  float: left;
+    padding-left: 10px;
+   
+}
+.journal p{
+    display: inline-block;
+}
+
+.showb{
+    clear: both;
+    text-align: center;
+}
+
+.impress{
+    font-size: 20px;
+    text-align: center;
+}
+.small{
+      text-align: center;
+     font-size: 10px;
+    
+}
+
+.grp3{
+    clear: both;
+    background:  #352D2F;
+}
+
+.six{
+    clear: both;
+    width:100%;
+    background:  #352D2F;
+    padding-bottom: 0px;
+    padding-left: 350px;
+}
+
+.imagea,
+.imageb,
+.imagec,
+
+.imagee,
+.imagef{
+
+  
+    float: left;
+    width: 10%;
+    margin-left: 10px;
+}
+
+.connect{
+    clear: both;
+    background:  #352D2F;
+    margin-top: 30px;
+}
+
+.connect1{
+    float: left;
+        width: 45%;
+    padding-left: 40px;
+}
+
+.connect2{
+    float: left;
+        width: 45%; 
+}
+.hconnect{
+    font-size:  30px;
+}
+
+footer{
+    clear: both;
+   
+}
+
+.showb {
+    font-size: 15px;
+  
+}
+input{
+     padding: 11px 30px;
+  font-size: 14px;
+}
+ .qwe{
+    border: 0;
+  background: red;
+  padding: 11px 30px;
+  font-size: 14px;
+}
+.connect{
+    padding-top: 0px;
+}
+.as{
+    float: :left;
+    width: 45%
+    
+}
+.asd{
+    width: :45%;
+    float:left;
+    text-align: right;
+}
