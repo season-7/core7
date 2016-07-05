@@ -1,6 +1,42 @@
+.fa-twitter-square,
+.fa-google-plus-official,
+.fa-pinterest-p,
+.fa-facebook-official{
+    height: 150px;
+    width: 200px;
+    
+}
+.fa-facebook-official,
+.fa-pinterest-p
+{
+    background: #605A5C;
+}
+
+.fa-google-plus-official,
+.fa-twitter-square{
+    background: #352D2F;
+}
+
+.fa-google-plus-official:hover{
+    color:forestgreen;
+}
+.fa-twitter-square:hover{
+    color: skyblue;
+}
+.fa-facebook-official:hover{
+     color:blue;
+}
+.fa-pinterest-p:hover{
+    color: red;
+}
+
+
+
+
 
 .grp1{
     Width:100% ;  
+   
     
 }
 .im1,
@@ -14,10 +50,11 @@
 
 .grp2{
     clear: both;
+    
   
 }
 
-
+    
 .im4,
 .im5,
 .im6{
@@ -28,6 +65,9 @@
 }
 
 .action{
+    
+    padding-bottom: 20px;
+    padding-top: 20px ;
     clear: both;
     text-align: center;
     background: #352D2F;
@@ -77,8 +117,10 @@ h2,h3{
 }
 
 .grp3{
+    
     clear: both;
     background:  #352D2F;
+    height: 400px;
 }
 
 .six{
